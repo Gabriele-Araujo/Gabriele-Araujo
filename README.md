@@ -1,6 +1,6 @@
 ### Olá, eu sou a Gabriele Araújo 👋
 
-- 🔭 Trabalho com desenvolvimento Web
+- 🔭 Trabalho com desenvolvimento
 - 💬 Pergunte-me sobre HTML, CSS, PHP, JS, Laravel...
 - 📫 Contate-me no E-mail ou WhatsApp!
 
